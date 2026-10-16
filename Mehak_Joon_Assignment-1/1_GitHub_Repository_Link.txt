@@ -1,0 +1,23 @@
+======================================================================
+GITHUB REPOSITORY LINK - ASSIGNMENT 1
+Subject: Tools & Techniques of Game and VFX-II (BCA MIT)
+Student Name: Mehak Joon
+Batch: 2024–27
+======================================================================
+
+Repository URL:
+https://github.com/Mehak-joon/tools-tech
+
+Branch Overview:
+- main (Production / Stable Release)
+- development (Active Pipeline & Asset Integration)
+- feature/asset-pipeline (Demonstration branch)
+
+Git Clone Command:
+git clone https://github.com/Mehak-joon/tools-tech.git
+
+Note:
+Please ensure Git LFS is installed prior to cloning to fetch large media assets:
+git lfs install
+git clone https://github.com/Mehak-joon/tools-tech.git
+======================================================================
